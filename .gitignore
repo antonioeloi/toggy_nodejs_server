@@ -11,3 +11,9 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
+
+# node js
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
