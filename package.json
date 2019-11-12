@@ -1,0 +1,26 @@
+{
+  "name": "toggy_nodejs_server",
+  "version": "1.0.0",
+  "description": "Server for implementing web sockets",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioeloi/toggy_nodejs_server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "antonioeloi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonioeloi/toggy_nodejs_server/issues"
+  },
+  "homepage": "https://github.com/antonioeloi/toggy_nodejs_server#readme",
+  "engines": {
+    "node": "13.x"
+  }
+}
